@@ -6,20 +6,20 @@ public class Defender : MonoBehaviour
 {
     [SerializeField] GameObject shot;
     [SerializeField] Animator animator;
-
-
-    Transform shotPoint;
+    [SerializeField] GameObject gunpoint;
+    [SerializeField] int starCost;
+    [SerializeField] bool canAttack;
 
     // Start is called before the first frame update
     void Start()
     {
-        shotPoint = transform.Find("Shot Point");
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Space))
+        if(Input.GetKeyDown(KeyCode.Space) && canAttack)
         {
             animator.SetTrigger("Attack");
         }
@@ -27,7 +27,8 @@ public class Defender : MonoBehaviour
 
     public void Shoot()
     {
-        var bullet = Instantiate(shot, shotPoint.position, Quaternion.identity);
+        var bullet = Instantiate(shot, gunpoint.transform.position, Quaternion.identity);
         return;
     }
+
 }

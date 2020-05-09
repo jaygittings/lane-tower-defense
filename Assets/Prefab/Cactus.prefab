@@ -118,6 +118,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shot: {fileID: 8328320251341381292, guid: 741f87dcc2ee068448c1096d03d77b14, type: 3}
   animator: {fileID: 5162714456016256089}
+  gunpoint: {fileID: 6969206167500835570}
+  starCost: 200
+  canAttack: 1
 --- !u!1 &6969206167500835570
 GameObject:
   m_ObjectHideFlags: 0
