@@ -1,0 +1,5444 @@
+fileFormatVersion: 2
+guid: dde3e715da7f79d458ce76660b7e813c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4972125084354599265
+    second: cursed_grave_0
+  - first:
+      213: 2043618759106131233
+    second: cursed_grave_1
+  - first:
+      213: -4083004350143791500
+    second: cursed_grave_2
+  - first:
+      213: 4772868587862902509
+    second: cursed_grave_3
+  - first:
+      213: -3549527635521299672
+    second: cursed_grave_4
+  - first:
+      213: -1917470097869005045
+    second: cursed_grave_5
+  - first:
+      213: 4238492810536831590
+    second: cursed_grave_6
+  - first:
+      213: 6267484060762623236
+    second: cursed_grave_7
+  - first:
+      213: 5282157825985435850
+    second: cursed_grave_8
+  - first:
+      213: 6732081256619638983
+    second: cursed_grave_9
+  - first:
+      213: -6850416318956396946
+    second: cursed_grave_10
+  - first:
+      213: 5130053087680578187
+    second: cursed_grave_11
+  - first:
+      213: -2569725384391350778
+    second: cursed_grave_12
+  - first:
+      213: 9188294678301564991
+    second: cursed_grave_13
+  - first:
+      213: -8053866952166302070
+    second: cursed_grave_14
+  - first:
+      213: 6043148741471717005
+    second: cursed_grave_15
+  - first:
+      213: -3677912262500867868
+    second: cursed_grave_16
+  - first:
+      213: -2968836897831738570
+    second: cursed_grave_17
+  - first:
+      213: 6255625420517456846
+    second: cursed_grave_18
+  - first:
+      213: -6380691518593182961
+    second: cursed_grave_19
+  - first:
+      213: -2756229350769141616
+    second: cursed_grave_20
+  - first:
+      213: -8118286423851955373
+    second: cursed_grave_21
+  - first:
+      213: -3297425449261121750
+    second: cursed_grave_22
+  - first:
+      213: -5887673023066810391
+    second: cursed_grave_23
+  - first:
+      213: -7489625720052822881
+    second: cursed_grave_24
+  - first:
+      213: 6183322970871623310
+    second: cursed_grave_25
+  - first:
+      213: -5773728910884604374
+    second: cursed_grave_26
+  - first:
+      213: 1936452591715630132
+    second: cursed_grave_27
+  - first:
+      213: 3266007856431227457
+    second: cursed_grave_28
+  - first:
+      213: 2113165830840513131
+    second: cursed_grave_29
+  - first:
+      213: -7735248219713877335
+    second: cursed_grave_30
+  - first:
+      213: -3858884372254581784
+    second: cursed_grave_31
+  - first:
+      213: -415729425203439523
+    second: cursed_grave_32
+  - first:
+      213: 2639834883473212902
+    second: cursed_grave_33
+  - first:
+      213: -4289872408575100160
+    second: cursed_grave_34
+  - first:
+      213: -2483391916279562285
+    second: cursed_grave_35
+  - first:
+      213: 4804857007150346028
+    second: cursed_grave_36
+  - first:
+      213: 6629313414785761834
+    second: cursed_grave_37
+  - first:
+      213: -2418485230912047930
+    second: cursed_grave_38
+  - first:
+      213: 4061871034872866404
+    second: cursed_grave_39
+  - first:
+      213: 8398845741215758960
+    second: cursed_grave_40
+  - first:
+      213: -8142707454718081577
+    second: cursed_grave_41
+  - first:
+      213: 4689557904528571820
+    second: cursed_grave_42
+  - first:
+      213: 4620554352101102861
+    second: cursed_grave_43
+  - first:
+      213: 1248824548250641595
+    second: cursed_grave_44
+  - first:
+      213: -3088692982188967622
+    second: cursed_grave_45
+  - first:
+      213: -6924782486543472187
+    second: cursed_grave_46
+  - first:
+      213: -2462012731888041128
+    second: cursed_grave_47
+  - first:
+      213: 7598733343253345999
+    second: cursed_grave_48
+  - first:
+      213: -5905050611472479229
+    second: cursed_grave_49
+  - first:
+      213: -6921726122663875473
+    second: cursed_grave_50
+  - first:
+      213: -5664972359592319347
+    second: cursed_grave_51
+  - first:
+      213: -3282088843467849733
+    second: cursed_grave_52
+  - first:
+      213: -1664819209955385827
+    second: cursed_grave_53
+  - first:
+      213: -610172729220213411
+    second: cursed_grave_54
+  - first:
+      213: -2424678834594854511
+    second: cursed_grave_55
+  - first:
+      213: 8390699425414856088
+    second: cursed_grave_56
+  - first:
+      213: 5986172244492959209
+    second: cursed_grave_57
+  - first:
+      213: -8025904318514239103
+    second: cursed_grave_58
+  - first:
+      213: -861067636278246771
+    second: cursed_grave_59
+  - first:
+      213: 1998757798588051551
+    second: cursed_grave_60
+  - first:
+      213: 5863013847505698346
+    second: cursed_grave_61
+  - first:
+      213: 6116876195721301883
+    second: cursed_grave_62
+  - first:
+      213: 8421241202564534804
+    second: cursed_grave_63
+  - first:
+      213: 3026122169238694169
+    second: cursed_grave_64
+  - first:
+      213: -7583596366028225400
+    second: cursed_grave_65
+  - first:
+      213: 1503366540695262945
+    second: cursed_grave_66
+  - first:
+      213: -8377233444186135935
+    second: cursed_grave_67
+  - first:
+      213: -4632834257440880661
+    second: cursed_grave_68
+  - first:
+      213: -5691930097842310576
+    second: cursed_grave_69
+  - first:
+      213: 7421151646645737448
+    second: cursed_grave_70
+  - first:
+      213: 5923475284807331571
+    second: cursed_grave_71
+  - first:
+      213: 2943015988076888393
+    second: cursed_grave_72
+  - first:
+      213: 8770610351479626117
+    second: cursed_grave_73
+  - first:
+      213: -186424527275655582
+    second: cursed_grave_74
+  - first:
+      213: -4941022693183566389
+    second: cursed_grave_75
+  - first:
+      213: -8849966065088573626
+    second: cursed_grave_76
+  - first:
+      213: 5673083209069170650
+    second: cursed_grave_77
+  - first:
+      213: 4304846055447174695
+    second: cursed_grave_78
+  - first:
+      213: -6351422093667986416
+    second: cursed_grave_79
+  - first:
+      213: -1646189396585707053
+    second: cursed_grave_80
+  - first:
+      213: -7060066159848824940
+    second: cursed_grave_81
+  - first:
+      213: -4196442624115045701
+    second: cursed_grave_82
+  - first:
+      213: 6889435060610636343
+    second: cursed_grave_83
+  - first:
+      213: 6366456302965422424
+    second: cursed_grave_84
+  - first:
+      213: 226096863152837750
+    second: cursed_grave_85
+  - first:
+      213: -9075164925404707390
+    second: cursed_grave_86
+  - first:
+      213: 5887155247926650217
+    second: cursed_grave_87
+  - first:
+      213: 268736006058133822
+    second: cursed_grave_88
+  - first:
+      213: -1280342833985884753
+    second: cursed_grave_89
+  - first:
+      213: 3171824662564153264
+    second: cursed_grave_90
+  - first:
+      213: 8318679626996120272
+    second: cursed_grave_91
+  - first:
+      213: 7841880718901854337
+    second: cursed_grave_92
+  - first:
+      213: 1545627015922474714
+    second: cursed_grave_93
+  - first:
+      213: -6386845908006201937
+    second: cursed_grave_94
+  - first:
+      213: 8074363178182751646
+    second: cursed_grave_95
+  - first:
+      213: -7816273806851570206
+    second: cursed_grave_96
+  - first:
+      213: -3106828680272750332
+    second: cursed_grave_97
+  - first:
+      213: -681384937114841506
+    second: cursed_grave_98
+  - first:
+      213: 1488985174597037379
+    second: cursed_grave_99
+  - first:
+      213: -4364079272999798575
+    second: cursed_grave_100
+  - first:
+      213: -1762218390301602306
+    second: cursed_grave_101
+  - first:
+      213: 8458431510287746285
+    second: cursed_grave_102
+  - first:
+      213: 2018164828775849940
+    second: cursed_grave_103
+  - first:
+      213: 8721735262128257619
+    second: cursed_grave_104
+  - first:
+      213: -7445942652835989928
+    second: cursed_grave_105
+  - first:
+      213: -280892629733169929
+    second: cursed_grave_106
+  - first:
+      213: 7486218290753809080
+    second: cursed_grave_107
+  - first:
+      213: -3267911179368122660
+    second: cursed_grave_108
+  - first:
+      213: 381352001590625434
+    second: cursed_grave_109
+  - first:
+      213: 5109842920603440052
+    second: cursed_grave_110
+  - first:
+      213: -6952919269637977163
+    second: cursed_grave_111
+  - first:
+      213: -6937289175157739790
+    second: cursed_grave_112
+  - first:
+      213: 7710298533241513625
+    second: cursed_grave_113
+  - first:
+      213: -2947553592394190955
+    second: cursed_grave_114
+  - first:
+      213: 3943522372303341840
+    second: cursed_grave_115
+  - first:
+      213: 5214520422518848996
+    second: cursed_grave_116
+  - first:
+      213: -6812439934362639077
+    second: cursed_grave_117
+  - first:
+      213: 7705132628586724000
+    second: cursed_grave_118
+  - first:
+      213: 1422986829300855737
+    second: cursed_grave_119
+  - first:
+      213: 5908560611773547759
+    second: cursed_grave_120
+  - first:
+      213: -7634835310322499031
+    second: cursed_grave_121
+  - first:
+      213: -4012278446828660198
+    second: cursed_grave_122
+  - first:
+      213: -4543848482314105468
+    second: cursed_grave_123
+  - first:
+      213: -7802221528179521873
+    second: cursed_grave_124
+  - first:
+      213: -5280545512133393438
+    second: cursed_grave_125
+  - first:
+      213: -6313238129673251459
+    second: cursed_grave_126
+  - first:
+      213: -5220675072241584610
+    second: cursed_grave_127
+  - first:
+      213: 623835815298471822
+    second: cursed_grave_128
+  - first:
+      213: 2705730580968819295
+    second: cursed_grave_129
+  - first:
+      213: -2620551800883426693
+    second: cursed_grave_130
+  - first:
+      213: 7307554047196924047
+    second: cursed_grave_131
+  - first:
+      213: -1963056493141760842
+    second: cursed_grave_132
+  - first:
+      213: -3672484806655779601
+    second: cursed_grave_133
+  - first:
+      213: 59347265196041790
+    second: cursed_grave_134
+  - first:
+      213: 3722739911383521714
+    second: cursed_grave_135
+  - first:
+      213: 2902427087467063273
+    second: cursed_grave_136
+  - first:
+      213: -2565483281951570072
+    second: cursed_grave_137
+  - first:
+      213: 4714918806705669910
+    second: cursed_grave_138
+  - first:
+      213: 3957402941862322060
+    second: cursed_grave_139
+  - first:
+      213: -1088939021068016962
+    second: cursed_grave_140
+  - first:
+      213: -983245189911845158
+    second: cursed_grave_141
+  - first:
+      213: -8706309359508577055
+    second: cursed_grave_142
+  - first:
+      213: -8206822809589337626
+    second: cursed_grave_143
+  - first:
+      213: 7438380747737346430
+    second: cursed_grave_144
+  - first:
+      213: 1703784182336248747
+    second: cursed_grave_145
+  - first:
+      213: 2730675528227764925
+    second: cursed_grave_146
+  - first:
+      213: -4071403694747108167
+    second: cursed_grave_147
+  - first:
+      213: 741960300172933674
+    second: cursed_grave_148
+  - first:
+      213: 3562217968397213880
+    second: cursed_grave_149
+  - first:
+      213: -3102395013974967336
+    second: cursed_grave_150
+  - first:
+      213: -5873415272275295752
+    second: cursed_grave_151
+  - first:
+      213: -7304803474546996433
+    second: cursed_grave_152
+  - first:
+      213: 5504529812788455875
+    second: cursed_grave_153
+  - first:
+      213: 9156017958833373309
+    second: cursed_grave_154
+  - first:
+      213: 7154114094247762998
+    second: cursed_grave_155
+  - first:
+      213: 6859692234923166920
+    second: cursed_grave_156
+  - first:
+      213: -8998279001115824502
+    second: cursed_grave_157
+  - first:
+      213: -5948728026824163301
+    second: cursed_grave_158
+  - first:
+      213: 3046166260965977278
+    second: cursed_grave_159
+  - first:
+      213: 1534454622535030392
+    second: cursed_grave_160
+  - first:
+      213: 740096104645845298
+    second: cursed_grave_161
+  - first:
+      213: 1687698716058753043
+    second: cursed_grave_162
+  - first:
+      213: -1112485943103396641
+    second: cursed_grave_163
+  - first:
+      213: -6839260755315584341
+    second: cursed_grave_164
+  - first:
+      213: -1275745290933739541
+    second: cursed_grave_165
+  - first:
+      213: -4926140752512520080
+    second: cursed_grave_166
+  - first:
+      213: -4700441127059875908
+    second: cursed_grave_167
+  - first:
+      213: -6269894237027259868
+    second: cursed_grave_168
+  - first:
+      213: -620771488133225600
+    second: cursed_grave_169
+  - first:
+      213: -3673609658060732777
+    second: cursed_grave_170
+  - first:
+      213: -4556027391577104102
+    second: cursed_grave_171
+  - first:
+      213: -1782878883910960578
+    second: cursed_grave_172
+  - first:
+      213: -3949271760407585150
+    second: cursed_grave_173
+  - first:
+      213: 5314392698194959633
+    second: cursed_grave_174
+  - first:
+      213: -1349242542963615811
+    second: cursed_grave_175
+  - first:
+      213: -2780160691502651845
+    second: cursed_grave_176
+  - first:
+      213: 2053254540126798701
+    second: cursed_grave_177
+  - first:
+      213: 207236100837171815
+    second: cursed_grave_178
+  - first:
+      213: -61998175049974599
+    second: cursed_grave_179
+  - first:
+      213: 2286648949217068068
+    second: cursed_grave_180
+  - first:
+      213: -4717006355659580909
+    second: cursed_grave_181
+  - first:
+      213: -8510996364176256411
+    second: cursed_grave_182
+  - first:
+      213: 8502699257107357552
+    second: cursed_grave_183
+  - first:
+      213: 8079700147216340619
+    second: cursed_grave_184
+  - first:
+      213: -6428637683759936974
+    second: cursed_grave_185
+  - first:
+      213: -719649865065085577
+    second: cursed_grave_186
+  - first:
+      213: 3841359190494122202
+    second: cursed_grave_187
+  - first:
+      213: 5895525521251559237
+    second: cursed_grave_188
+  - first:
+      213: -7403477217811583365
+    second: cursed_grave_189
+  - first:
+      213: -938350360265645460
+    second: cursed_grave_190
+  - first:
+      213: -2147557390563990102
+    second: cursed_grave_191
+  - first:
+      213: 1125612319062645691
+    second: cursed_grave_192
+  - first:
+      213: 3884138622793238373
+    second: cursed_grave_193
+  - first:
+      213: 767187723547034451
+    second: cursed_grave_194
+  - first:
+      213: 3644246591766658365
+    second: cursed_grave_195
+  - first:
+      213: -5501751385017887530
+    second: cursed_grave_196
+  - first:
+      213: -848294172697477045
+    second: cursed_grave_197
+  - first:
+      213: 988534834216484655
+    second: cursed_grave_198
+  - first:
+      213: 1237102346991614507
+    second: cursed_grave_199
+  - first:
+      213: -562158910305239012
+    second: cursed_grave_200
+  - first:
+      213: -7884840169989086917
+    second: cursed_grave_201
+  - first:
+      213: 8539608630704352448
+    second: cursed_grave_202
+  - first:
+      213: 6435401512825496163
+    second: cursed_grave_203
+  - first:
+      213: 5634481868973069238
+    second: cursed_grave_204
+  - first:
+      213: -6542816126522142036
+    second: cursed_grave_205
+  - first:
+      213: -5252665232810475179
+    second: cursed_grave_206
+  - first:
+      213: -4531830184417667768
+    second: cursed_grave_207
+  - first:
+      213: 5850081708756875472
+    second: cursed_grave_208
+  - first:
+      213: -1950796977177562816
+    second: cursed_grave_209
+  - first:
+      213: -4977581820625639417
+    second: cursed_grave_210
+  - first:
+      213: 7695481291202766025
+    second: cursed_grave_211
+  - first:
+      213: 9052543457740951990
+    second: cursed_grave_212
+  - first:
+      213: -5180573373253746041
+    second: cursed_grave_213
+  - first:
+      213: -3086522575437154724
+    second: cursed_grave_214
+  - first:
+      213: -9206925832563954713
+    second: cursed_grave_215
+  - first:
+      213: -3715936770036204883
+    second: cursed_grave_216
+  - first:
+      213: -6982559049568979203
+    second: cursed_grave_217
+  - first:
+      213: 7808717873227233012
+    second: cursed_grave_218
+  - first:
+      213: 3443620663498054073
+    second: cursed_grave_219
+  - first:
+      213: -4812466468446230453
+    second: cursed_grave_220
+  - first:
+      213: 7715068761816032677
+    second: cursed_grave_221
+  - first:
+      213: 7788863335387408598
+    second: cursed_grave_222
+  - first:
+      213: 6156747356371323110
+    second: cursed_grave_223
+  - first:
+      213: -525443427657330079
+    second: cursed_grave_224
+  - first:
+      213: -1290056934590127698
+    second: cursed_grave_225
+  - first:
+      213: -8864287351229578815
+    second: cursed_grave_226
+  - first:
+      213: 5201585887303823850
+    second: cursed_grave_227
+  - first:
+      213: 5459321586377732301
+    second: cursed_grave_228
+  - first:
+      213: 1424389020456618890
+    second: cursed_grave_229
+  - first:
+      213: -3094682880384848024
+    second: cursed_grave_230
+  - first:
+      213: -3486294760453228731
+    second: cursed_grave_231
+  - first:
+      213: 2471139888366864435
+    second: cursed_grave_232
+  - first:
+      213: -7901099200121905740
+    second: cursed_grave_233
+  - first:
+      213: -7674419911022718458
+    second: cursed_grave_234
+  - first:
+      213: 7007832819838456163
+    second: cursed_grave_235
+  - first:
+      213: 4470515121325789574
+    second: cursed_grave_236
+  - first:
+      213: -433222661103309416
+    second: cursed_grave_237
+  - first:
+      213: 5102712059570118256
+    second: cursed_grave_238
+  - first:
+      213: -8749256765316264055
+    second: cursed_grave_239
+  - first:
+      213: 4287161604002933967
+    second: cursed_grave_240
+  - first:
+      213: -7628153446679804018
+    second: cursed_grave_241
+  - first:
+      213: -9099148920729357145
+    second: cursed_grave_242
+  - first:
+      213: 2049848469968533198
+    second: cursed_grave_243
+  - first:
+      213: 2677976517956679894
+    second: cursed_grave_244
+  - first:
+      213: -2970349640850390635
+    second: cursed_grave_245
+  - first:
+      213: 1911911064498039935
+    second: cursed_grave_246
+  - first:
+      213: -6504433986544759487
+    second: cursed_grave_247
+  - first:
+      213: -257227927128031190
+    second: cursed_grave_248
+  - first:
+      213: 4010574115032448490
+    second: cursed_grave_249
+  - first:
+      213: 7439106964388770251
+    second: cursed_grave_250
+  - first:
+      213: 3262576958459608170
+    second: cursed_grave_251
+  - first:
+      213: 7611421716288084690
+    second: cursed_grave_252
+  - first:
+      213: -5412902058411626040
+    second: cursed_grave_253
+  - first:
+      213: -2974521369372199939
+    second: cursed_grave_254
+  - first:
+      213: 8772075261820389435
+    second: cursed_grave_255
+  - first:
+      213: -9190998844815477968
+    second: cursed_grave_256
+  - first:
+      213: -962375815611965764
+    second: cursed_grave_257
+  - first:
+      213: -5818110083026684578
+    second: cursed_grave_258
+  - first:
+      213: -1222881056361152355
+    second: cursed_grave_259
+  - first:
+      213: -6920217764921305910
+    second: cursed_grave_260
+  - first:
+      213: -5440044306597229623
+    second: cursed_grave_261
+  - first:
+      213: -3342819535906307134
+    second: cursed_grave_262
+  - first:
+      213: 73692266719364765
+    second: cursed_grave_263
+  - first:
+      213: 2847053620160549904
+    second: cursed_grave_264
+  - first:
+      213: 4146267810622553611
+    second: cursed_grave_265
+  - first:
+      213: -793396452579406261
+    second: cursed_grave_266
+  - first:
+      213: -371992945483018926
+    second: cursed_grave_267
+  - first:
+      213: -2741070658786275371
+    second: cursed_grave_268
+  - first:
+      213: -8028121460559535085
+    second: cursed_grave_269
+  - first:
+      213: -7663613339073144816
+    second: cursed_grave_270
+  - first:
+      213: 1855219759215947412
+    second: cursed_grave_271
+  - first:
+      213: 4117683284596419146
+    second: cursed_grave_272
+  - first:
+      213: -8863102761027974423
+    second: cursed_grave_273
+  - first:
+      213: -335062599741531774
+    second: cursed_grave_274
+  - first:
+      213: 4276001205686319702
+    second: cursed_grave_275
+  - first:
+      213: 4815742633226158215
+    second: cursed_grave_276
+  - first:
+      213: -8959978081068775510
+    second: cursed_grave_277
+  - first:
+      213: 8877602631195294094
+    second: cursed_grave_278
+  - first:
+      213: 8642101834544792126
+    second: cursed_grave_279
+  - first:
+      213: -7518248772672074449
+    second: cursed_grave_280
+  - first:
+      213: -6551517299677511425
+    second: cursed_grave_281
+  - first:
+      213: -6055537707521847044
+    second: cursed_grave_282
+  - first:
+      213: 1791491653624161567
+    second: cursed_grave_283
+  - first:
+      213: -2466197803037549431
+    second: cursed_grave_284
+  - first:
+      213: -2144971243561370156
+    second: cursed_grave_285
+  - first:
+      213: 7756059810726625030
+    second: cursed_grave_286
+  - first:
+      213: 7651174457263938681
+    second: cursed_grave_287
+  - first:
+      213: 7243183369643607235
+    second: cursed_grave_288
+  - first:
+      213: 6777309572121264415
+    second: cursed_grave_289
+  - first:
+      213: 5070513571670271971
+    second: cursed_grave_290
+  - first:
+      213: -2636783440124000578
+    second: cursed_grave_291
+  - first:
+      213: 8302332705074924679
+    second: cursed_grave_292
+  - first:
+      213: 331939011388699549
+    second: cursed_grave_293
+  - first:
+      213: -3328630886571105256
+    second: cursed_grave_294
+  - first:
+      213: 3974700036163563349
+    second: cursed_grave_295
+  - first:
+      213: -646217043550662367
+    second: cursed_grave_296
+  - first:
+      213: -6399289939611248350
+    second: cursed_grave_297
+  - first:
+      213: 7724493160066987947
+    second: cursed_grave_298
+  - first:
+      213: -7566675147445981649
+    second: cursed_grave_299
+  - first:
+      213: -5693525288929612709
+    second: cursed_grave_300
+  - first:
+      213: 407216634024928529
+    second: cursed_grave_301
+  - first:
+      213: 2140768104920681471
+    second: cursed_grave_302
+  - first:
+      213: 2528594700018702731
+    second: cursed_grave_303
+  - first:
+      213: 5959834990274200552
+    second: cursed_grave_304
+  - first:
+      213: 5389333859202473139
+    second: cursed_grave_305
+  - first:
+      213: -1276289635639075855
+    second: cursed_grave_306
+  - first:
+      213: -9028140846055775836
+    second: cursed_grave_307
+  - first:
+      213: 1116337292496829011
+    second: cursed_grave_308
+  - first:
+      213: -882590769711065445
+    second: cursed_grave_309
+  - first:
+      213: -6464784097964869819
+    second: cursed_grave_310
+  - first:
+      213: 1975306723079464827
+    second: cursed_grave_311
+  - first:
+      213: 2924180411478712315
+    second: cursed_grave_312
+  - first:
+      213: 6843795369348226415
+    second: cursed_grave_313
+  - first:
+      213: -5051485037842991271
+    second: cursed_grave_314
+  - first:
+      213: 3914161077735305090
+    second: cursed_grave_315
+  - first:
+      213: -2778076290833458387
+    second: cursed_grave_316
+  - first:
+      213: 8466556380668524453
+    second: cursed_grave_317
+  - first:
+      213: -110668133651382425
+    second: cursed_grave_318
+  - first:
+      213: -4084494723877044662
+    second: cursed_grave_319
+  - first:
+      213: 8589206877274301153
+    second: cursed_grave_320
+  - first:
+      213: -4451719626537870555
+    second: cursed_grave_321
+  - first:
+      213: 5162059007981638600
+    second: cursed_grave_322
+  - first:
+      213: -44055958634644006
+    second: cursed_grave_323
+  - first:
+      213: -6246611257898704667
+    second: cursed_grave_324
+  - first:
+      213: 2157941649535768075
+    second: cursed_grave_325
+  - first:
+      213: -1917054530241203576
+    second: cursed_grave_326
+  - first:
+      213: 730183434503496416
+    second: cursed_grave_327
+  - first:
+      213: 7813247788760171220
+    second: cursed_grave_328
+  - first:
+      213: -8755336680311422175
+    second: cursed_grave_329
+  - first:
+      213: -201724370895893694
+    second: cursed_grave_330
+  - first:
+      213: -7610798883635424442
+    second: cursed_grave_331
+  - first:
+      213: -8535982415559787653
+    second: cursed_grave_332
+  - first:
+      213: -892737002556658882
+    second: cursed_grave_333
+  - first:
+      213: 6080870251634459888
+    second: cursed_grave_334
+  - first:
+      213: -861673193738369926
+    second: cursed_grave_335
+  - first:
+      213: 1377295576838891097
+    second: cursed_grave_336
+  - first:
+      213: -8218886329659497940
+    second: cursed_grave_337
+  - first:
+      213: -5399011780206270280
+    second: cursed_grave_338
+  - first:
+      213: 1662662539037731186
+    second: cursed_grave_339
+  - first:
+      213: -3248673161928741634
+    second: cursed_grave_340
+  - first:
+      213: 7356539395824791963
+    second: cursed_grave_341
+  - first:
+      213: -6648813117887255847
+    second: cursed_grave_342
+  - first:
+      213: 5729519150279776629
+    second: cursed_grave_343
+  - first:
+      213: 5821071289841606934
+    second: cursed_grave_344
+  - first:
+      213: -4366413488499091196
+    second: cursed_grave_345
+  - first:
+      213: 2497859436289025530
+    second: cursed_grave_346
+  - first:
+      213: 4792753962461068712
+    second: cursed_grave_347
+  - first:
+      213: 8231136721894168504
+    second: cursed_grave_348
+  - first:
+      213: -8191581711816498394
+    second: cursed_grave_349
+  - first:
+      213: 8887857868742301824
+    second: cursed_grave_350
+  - first:
+      213: 7081774779697156907
+    second: cursed_grave_351
+  - first:
+      213: 2006916146386103498
+    second: cursed_grave_352
+  - first:
+      213: -6617454393285628937
+    second: cursed_grave_353
+  - first:
+      213: -3487763530468602665
+    second: cursed_grave_354
+  - first:
+      213: 4449685834648216425
+    second: cursed_grave_355
+  - first:
+      213: 1925134134145918997
+    second: cursed_grave_356
+  - first:
+      213: -1228103294951918341
+    second: cursed_grave_357
+  - first:
+      213: 4158421167895417689
+    second: cursed_grave_358
+  - first:
+      213: 6226887375049648009
+    second: cursed_grave_359
+  - first:
+      213: -2338215056007908778
+    second: cursed_grave_360
+  - first:
+      213: 5650275717657963754
+    second: cursed_grave_361
+  - first:
+      213: 3062069870403264840
+    second: cursed_grave_362
+  - first:
+      213: 9089349060965587683
+    second: cursed_grave_363
+  - first:
+      213: -3500457575167044526
+    second: cursed_grave_364
+  - first:
+      213: 7175545139483702422
+    second: cursed_grave_365
+  - first:
+      213: 6300409151265910799
+    second: cursed_grave_366
+  - first:
+      213: 5359707983611699071
+    second: cursed_grave_367
+  - first:
+      213: -3475376418354536550
+    second: cursed_grave_368
+  - first:
+      213: -1598997831747839034
+    second: cursed_grave_369
+  - first:
+      213: 8687196959306921676
+    second: cursed_grave_370
+  - first:
+      213: -7126304104139409774
+    second: cursed_grave_371
+  - first:
+      213: 9205483525151516608
+    second: cursed_grave_372
+  - first:
+      213: -3141577337944019015
+    second: cursed_grave_373
+  - first:
+      213: 8520744038533272071
+    second: cursed_grave_374
+  - first:
+      213: 9089636246028827696
+    second: cursed_grave_375
+  - first:
+      213: 1934972817933532918
+    second: cursed_grave_376
+  - first:
+      213: -3937168997121898141
+    second: cursed_grave_377
+  - first:
+      213: 2807827199948168155
+    second: cursed_grave_378
+  - first:
+      213: -8649099430492304641
+    second: cursed_grave_379
+  - first:
+      213: 2300135943137475600
+    second: cursed_grave_380
+  - first:
+      213: 7225390278095538661
+    second: cursed_grave_381
+  - first:
+      213: -1617634557626101978
+    second: cursed_grave_382
+  - first:
+      213: -2531446266131410507
+    second: cursed_grave_383
+  - first:
+      213: 6533360269741034005
+    second: cursed_grave_384
+  - first:
+      213: -3339674100670128092
+    second: cursed_grave_385
+  - first:
+      213: -5007580030989427328
+    second: cursed_grave_386
+  - first:
+      213: -3780712002091180025
+    second: cursed_grave_387
+  - first:
+      213: 7567473687016369105
+    second: cursed_grave_388
+  - first:
+      213: 2822675476390513812
+    second: cursed_grave_389
+  - first:
+      213: 7658842178088362421
+    second: cursed_grave_390
+  - first:
+      213: 8506775824682138530
+    second: cursed_grave_391
+  - first:
+      213: -8970326691605029095
+    second: cursed_grave_392
+  - first:
+      213: -8007402385778102459
+    second: cursed_grave_393
+  - first:
+      213: 1123225514313793662
+    second: cursed_grave_394
+  - first:
+      213: 2968568539944226376
+    second: cursed_grave_395
+  - first:
+      213: 1475647971068549020
+    second: cursed_grave_396
+  - first:
+      213: 1008959725991440957
+    second: cursed_grave_397
+  - first:
+      213: 8970395788843161712
+    second: cursed_grave_398
+  - first:
+      213: -3732650472900218065
+    second: cursed_grave_399
+  - first:
+      213: -6601257617241256884
+    second: cursed_grave_400
+  - first:
+      213: -2011112995206843283
+    second: cursed_grave_401
+  - first:
+      213: 215933535906100759
+    second: cursed_grave_402
+  - first:
+      213: -7262038554530827735
+    second: cursed_grave_403
+  - first:
+      213: -5443356067463829812
+    second: cursed_grave_404
+  - first:
+      213: 6467893137718719135
+    second: cursed_grave_405
+  - first:
+      213: -5342611166289643437
+    second: cursed_grave_406
+  - first:
+      213: -4998117684974519591
+    second: cursed_grave_407
+  - first:
+      213: 5534970628632442526
+    second: cursed_grave_408
+  - first:
+      213: 6086657122496992964
+    second: cursed_grave_409
+  - first:
+      213: 4659135299789236899
+    second: cursed_grave_410
+  - first:
+      213: 4309790449874279034
+    second: cursed_grave_411
+  - first:
+      213: 1874964082224836860
+    second: cursed_grave_412
+  - first:
+      213: -5141821192166804647
+    second: cursed_grave_413
+  - first:
+      213: -7290234526774083594
+    second: cursed_grave_414
+  - first:
+      213: 1678648693470989735
+    second: cursed_grave_415
+  - first:
+      213: 4171434572404519702
+    second: cursed_grave_416
+  - first:
+      213: -2670440176392816622
+    second: cursed_grave_417
+  - first:
+      213: -3893510483704533989
+    second: cursed_grave_418
+  - first:
+      213: 8042788421708528929
+    second: cursed_grave_419
+  - first:
+      213: -4858837205462560521
+    second: cursed_grave_420
+  - first:
+      213: 3171215673375314404
+    second: cursed_grave_421
+  - first:
+      213: -2397679767152653046
+    second: cursed_grave_422
+  - first:
+      213: -4084813644136519993
+    second: cursed_grave_423
+  - first:
+      213: 5648245872402174573
+    second: cursed_grave_424
+  - first:
+      213: -2883017687645370638
+    second: cursed_grave_425
+  - first:
+      213: 1753307798760674392
+    second: cursed_grave_426
+  - first:
+      213: -2512299093063515150
+    second: cursed_grave_427
+  - first:
+      213: 512158388021500780
+    second: cursed_grave_428
+  - first:
+      213: 6346883975402096169
+    second: cursed_grave_429
+  - first:
+      213: 6929208179979825872
+    second: cursed_grave_430
+  - first:
+      213: -6751755686083850752
+    second: cursed_grave_431
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cursed_grave_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f962c3844967ffab0800000000000000
+      internalID: -4972125084354599265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12578d01f646c5c10800000000000000
+      internalID: 2043618759106131233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47efd4d1d214657c0800000000000000
+      internalID: -4083004350143791500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6403361b2ac3240800000000000000
+      internalID: 4772868587862902509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b1254fb6b8dbec0800000000000000
+      internalID: -3549527635521299672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f951dea17c365e0800000000000000
+      internalID: -1917470097869005045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a481331c622da30800000000000000
+      internalID: 4238492810536831590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dcd25fb839af650800000000000000
+      internalID: 6267484060762623236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac859618e8efd4940800000000000000
+      internalID: 5282157825985435850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c001eb1c382d6d50800000000000000
+      internalID: 6732081256619638983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e901927ae6ee0a0800000000000000
+      internalID: -6850416318956396946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82c8126a1c913740800000000000000
+      internalID: 5130053087680578187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606ac0db060865cd0800000000000000
+      internalID: -2569725384391350778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30e6c70451638f70800000000000000
+      internalID: 9188294678301564991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e9edf9daaea3090800000000000000
+      internalID: -8053866952166302070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86454c23c39dd350800000000000000
+      internalID: 6043148741471717005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0259e984e65fcc0800000000000000
+      internalID: -3677912262500867868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633aaac22929cc6d0800000000000000
+      internalID: -2968836897831738570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbb8dd1d2270d650800000000000000
+      internalID: 6255625420517456846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03d7e4ceda3377a0800000000000000
+      internalID: -6380691518593182961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09856e33208efb9d0800000000000000
+      internalID: -2756229350769141616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b8d61928d065f80800000000000000
+      internalID: -8118286423851955373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f357f36013d32d0800000000000000
+      internalID: -3297425449261121750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7d37a6498ca4ea0800000000000000
+      internalID: -5887673023066810391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c4f9fd6118f0890800000000000000
+      internalID: -7489625720052822881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ee05a3b739fc550800000000000000
+      internalID: 6183322970871623310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26f15565289fdfa0800000000000000
+      internalID: -5773728910884604374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c38955f59afda10800000000000000
+      internalID: 1936452591715630132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e73467d0335d20800000000000000
+      internalID: 3266007856431227457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62fdba8029735d10800000000000000
+      internalID: 2113165830840513131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa4b7e2ab0e6a490800000000000000
+      internalID: -7735248219713877335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb9572db1d727ac0800000000000000
+      internalID: -3858884372254581784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5852185a480b3af0800000000000000
+      internalID: -415729425203439523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_33
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e50b1f07d392a420800000000000000
+      internalID: 2639834883473212902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bb12be5cf4774c0800000000000000
+      internalID: -4289872408575100160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_35
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df7410b538398dd0800000000000000
+      internalID: -2483391916279562285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f2eb3adf74ea240800000000000000
+      internalID: 4804857007150346028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_37
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2289095d6d000c50800000000000000
+      internalID: 6629313414785761834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_38
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c475f40f70df6ed0800000000000000
+      internalID: -2418485230912047930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_39
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466ab0d7f2aae5830800000000000000
+      internalID: 4061871034872866404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_40
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ab770e3b1be8470800000000000000
+      internalID: 8398845741215758960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_41
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d58a9b36ba4ffe80800000000000000
+      internalID: -8142707454718081577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_42
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadfc0d5118a41140800000000000000
+      internalID: 4689557904528571820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_43
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d051f56d3b18f1040800000000000000
+      internalID: 4620554352101102861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_44
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb464416f47b45110800000000000000
+      internalID: 1248824548250641595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_45
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a397268e812c225d0800000000000000
+      internalID: -3088692982188967622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_46
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9eabe740b36ef90800000000000000
+      internalID: -6924782486543472187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_47
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8530353f67c25ddd0800000000000000
+      internalID: -2462012731888041128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6388347bf147960800000000000000
+      internalID: 7598733343253345999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cca7251cb0d0ea0800000000000000
+      internalID: -5905050611472479229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ce31aa3c611ff90800000000000000
+      internalID: -6921726122663875473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86e71c37a9f161b0800000000000000
+      internalID: -5664972359592319347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff73db069da372d0800000000000000
+      internalID: -3282088843467849733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1edc57cfbf55e8e0800000000000000
+      internalID: -1664819209955385827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55d237b22b3887f0800000000000000
+      internalID: -610172729220213411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199c099427fc95ed0800000000000000
+      internalID: -2424678834594854511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d3deceba0c17470800000000000000
+      internalID: 8390699425414856088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed3e45b0f7231350800000000000000
+      internalID: 5986172244492959209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1896fad9b824e9090800000000000000
+      internalID: -8025904318514239103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82cc040c8fdc04f0800000000000000
+      internalID: -861067636278246771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_60
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50f1e0c0a30dbb10800000000000000
+      internalID: 1998757798588051551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_61
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ef5cdd70c9d5150800000000000000
+      internalID: 5863013847505698346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fc20dcd7283e450800000000000000
+      internalID: 6116876195721301883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4121ebe81424ed470800000000000000
+      internalID: 8421241202564534804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_64
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91928607412fef920800000000000000
+      internalID: 3026122169238694169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_65
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884c1f2e847a1c690800000000000000
+      internalID: -7583596366028225400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_66
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6595157e70dd410800000000000000
+      internalID: 1503366540695262945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_67
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18263c621961ebb80800000000000000
+      internalID: -8377233444186135935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_68
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7c9f5e9cdd4bfb0800000000000000
+      internalID: -4632834257440880661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_69
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05231cfabb33201b0800000000000000
+      internalID: -5691930097842310576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_70
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7df9a8a1a3df660800000000000000
+      internalID: 7421151646645737448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_71
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe2fba3369643250800000000000000
+      internalID: 5923475284807331571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9414e99c271b7d820800000000000000
+      internalID: 2943015988076888393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5899e4f55a777b970800000000000000
+      internalID: 8770610351479626117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e705251efa96df0800000000000000
+      internalID: -186424527275655582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd46a90a06fd6bb0800000000000000
+      internalID: -4941022693183566389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f4220c0ca9e2580800000000000000
+      internalID: -8849966065088573626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_77
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf0dc11f17dabe40800000000000000
+      internalID: 5673083209069170650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e9babeda2edbb30800000000000000
+      internalID: 4304846055447174695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_79
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0141a50d1473bd7a0800000000000000
+      internalID: -6351422093667986416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_80
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d98e77377f8729e0800000000000000
+      internalID: -1646189396585707053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_81
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f5473cb3b950e90800000000000000
+      internalID: -7060066159848824940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_82
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba8055caad33c5c0800000000000000
+      internalID: -4196442624115045701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_83
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a91d29fa03c9f50800000000000000
+      internalID: 6889435060610636343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_84
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859fc40d6423a5850800000000000000
+      internalID: 6366456302965422424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_85
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6741e0d26e1432300800000000000000
+      internalID: 226096863152837750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_86
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c50b2725998e0280800000000000000
+      internalID: -9075164925404707390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_87
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965ae3aa18063b150800000000000000
+      internalID: 5887155247926650217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_88
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39c37349fdbab300800000000000000
+      internalID: 268736006058133822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_89
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faded8dd9fe4b3ee0800000000000000
+      internalID: -1280342833985884753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_90
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a5fdb9b5940c20800000000000000
+      internalID: 3171824662564153264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_91
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daf167eb03e17370800000000000000
+      internalID: 8318679626996120272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_92
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180412d37f4f3dc60800000000000000
+      internalID: 7841880718901854337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_93
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade5e47f49b237510800000000000000
+      internalID: 1545627015922474714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_94
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa512225c7d5d57a0800000000000000
+      internalID: -6386845908006201937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_95
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95b31fd786ed0070800000000000000
+      internalID: 8074363178182751646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e50c639264078390800000000000000
+      internalID: -7816273806851570206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409d856a6c352e4d0800000000000000
+      internalID: -3106828680272750332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ec7f3820c3b86f0800000000000000
+      internalID: -681384937114841506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34deda79020f9a410800000000000000
+      internalID: 1488985174597037379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8b339e50daf63c0800000000000000
+      internalID: -4364079272999798575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd896de5b75b87e0800000000000000
+      internalID: -1762218390301602306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de40ca7d4a2626570800000000000000
+      internalID: 8458431510287746285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_103
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df1f551836f10c10800000000000000
+      internalID: 2018164828775849940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a372cd204d90970800000000000000
+      internalID: 8721735262128257619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856f7c78b92baa890800000000000000
+      internalID: -7445942652835989928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_106
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4aab834a11a1cf0800000000000000
+      internalID: -280892629733169929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_107
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baa96b2fd364e760800000000000000
+      internalID: 7486218290753809080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd63c34b81c06a2d0800000000000000
+      internalID: -3267911179368122660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_109
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94813dff95da4500800000000000000
+      internalID: 381352001590625434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_110
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3dc9c201fc9e640800000000000000
+      internalID: 5109842920603440052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_111
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb824d23c4428f90800000000000000
+      internalID: -6952919269637977163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_112
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe6f82204cc9bf90800000000000000
+      internalID: -6937289175157739790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_113
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99663124aab700b60800000000000000
+      internalID: 7710298533241513625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_114
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59feae0ef9f2817d0800000000000000
+      internalID: -2947553592394190955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_115
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01942f434b43ab630800000000000000
+      internalID: 3943522372303341840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_116
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed714252b2bd5840800000000000000
+      internalID: 5214520422518848996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_117
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1521aa39f95571a0800000000000000
+      internalID: -6812439934362639077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_118
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aafe2a5d412eea60800000000000000
+      internalID: 7705132628586724000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_119
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b379806bf67fb310800000000000000
+      internalID: 1422986829300855737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe480ae429c6ff150800000000000000
+      internalID: 5908560611773547759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9224e918cbd9b0690800000000000000
+      internalID: -7634835310322499031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a52d4b2068158c0800000000000000
+      internalID: -4012278446828660198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d487231e101f0c0800000000000000
+      internalID: -4543848482314105468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_124
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa644f9abd0f8b390800000000000000
+      internalID: -7802221528179521873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_125
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3810195dbb7b6b0800000000000000
+      internalID: -5280545512133393438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_126
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75df5abe5fd268a0800000000000000
+      internalID: -6313238129673251459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_127
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16bd4f9eaf6c87b0800000000000000
+      internalID: -5220675072241584610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_128
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8718096e5f48a800800000000000000
+      internalID: 623835815298471822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_129
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ace88b0afac8520800000000000000
+      internalID: 2705730580968819295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_130
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a45d8750ee1abd0800000000000000
+      internalID: -2620551800883426693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_131
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88042850b5a96560800000000000000
+      internalID: 7307554047196924047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_132
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4e24c2582d1c4e0800000000000000
+      internalID: -1963056493141760842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_133
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec5348a686b80dc0800000000000000
+      internalID: -3672484806655779601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_134
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36a664f508d2d000800000000000000
+      internalID: 59347265196041790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_135
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b91f29b934d9a330800000000000000
+      internalID: 3722739911383521714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_136
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e722feee0e774820800000000000000
+      internalID: 2902427087467063273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_137
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867c21e2c82956cd0800000000000000
+      internalID: -2565483281951570072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_138
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617008a8ca1ce6140800000000000000
+      internalID: 4714918806705669910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_139
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f1ac622058be630800000000000000
+      internalID: 3957402941862322060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_140
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2ed23dabf43e0f0800000000000000
+      internalID: -1088939021068016962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_141
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6613095bfca52f0800000000000000
+      internalID: -983245189911845158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_142
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e425d9f3c9fc2780800000000000000
+      internalID: -8706309359508577055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_143
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1bad3e2228b1e80800000000000000
+      internalID: -8206822809589337626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e713dfc31ef6a3760800000000000000
+      internalID: 7438380747737346430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babd412dfae05a710800000000000000
+      internalID: 1703784182336248747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_146
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba3ed8dcee45e520800000000000000
+      internalID: 2730675528227764925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcb26d29e77f77c0800000000000000
+      internalID: -4071403694747108167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_148
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aff3146f8fb4a00800000000000000
+      internalID: 741960300172933674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_149
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b064da6e5a8f6130800000000000000
+      internalID: 3562217968397213880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_150
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db34170c2412f4d0800000000000000
+      internalID: -3102395013974967336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_151
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f14da5bdef6d7ea0800000000000000
+      internalID: -5873415272275295752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_152
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b469141ff10aa90800000000000000
+      internalID: -7304803474546996433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_153
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9adc253b4046c40800000000000000
+      internalID: 5504529812788455875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_154
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d704c59a2d5b01f70800000000000000
+      internalID: 9156017958833373309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_155
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cd0465dd4884360800000000000000
+      internalID: 7154114094247762998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_156
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccc9135eb5823f50800000000000000
+      internalID: 6859692234923166920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_157
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e62a46ce0bf1380800000000000000
+      internalID: -8998279001115824502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_158
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b104cb7906fd17da0800000000000000
+      internalID: -5948728026824163301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_159
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc28a73318264a20800000000000000
+      internalID: 3046166260965977278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_160
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876182c695a7b4510800000000000000
+      internalID: 1534454622535030392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_161
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231e0196c79554a00800000000000000
+      internalID: 740096104645845298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_162
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318909a5a09eb6710800000000000000
+      internalID: 1687698716058753043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_163
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4e4bfcde7af80f0800000000000000
+      internalID: -1112485943103396641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_164
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2152934901611a0800000000000000
+      internalID: -6839260755315584341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_165
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef5406ca64ab4ee0800000000000000
+      internalID: -1275745290933739541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_166
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0707aecd515d2abb0800000000000000
+      internalID: -4926140752512520080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_167
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb795fde2bda4ceb0800000000000000
+      internalID: -4700441127059875908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aa8b6296cdcf8a0800000000000000
+      internalID: -6269894237027259868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e02bde939267f0800000000000000
+      internalID: -620771488133225600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_170
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79688d7ca77b40dc0800000000000000
+      internalID: -3673609658060732777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_171
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11e81ae93db5c0c0800000000000000
+      internalID: -4556027391577104102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_172
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a31f6e911f147e0800000000000000
+      internalID: -1782878883910960578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_173
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e9c6f024e5139c0800000000000000
+      internalID: -3949271760407585150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_174
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d17dc800480c940800000000000000
+      internalID: 5314392698194959633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_175
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db71fc64e07864de0800000000000000
+      internalID: -1349242542963615811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_176
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36ea7cb492ea69d0800000000000000
+      internalID: -2780160691502651845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_177
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6347b92020ae7c10800000000000000
+      internalID: 2053254540126798701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_178
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762690fb22040e200800000000000000
+      internalID: 207236100837171815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_179
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc7c6ffcfcb32ff0800000000000000
+      internalID: -61998175049974599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_180
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4248a18aa1fcbbf10800000000000000
+      internalID: 2286648949217068068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_181
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a96a716b3d98eb0800000000000000
+      internalID: -4717006355659580909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_182
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56212a466edd2e980800000000000000
+      internalID: -8510996364176256411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_183
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f9cd3dce7aff570800000000000000
+      internalID: 8502699257107357552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_184
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86508ec97cd02070800000000000000
+      internalID: 8079700147216340619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_185
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a8cc54614e8c6a0800000000000000
+      internalID: -6428637683759936974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_186
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7754326b24a4306f0800000000000000
+      internalID: -719649865065085577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_187
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad09514d4df3f4530800000000000000
+      internalID: 3841359190494122202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_188
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e27ac93d11d150800000000000000
+      internalID: 5895525521251559237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_189
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ea4a912b0914990800000000000000
+      internalID: -7403477217811583365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_190
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62a185a15f4af2f0800000000000000
+      internalID: -938350360265645460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_grave_191
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa52ba87ee75232e0800000000000000
+      internalID: -2147557390563990102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

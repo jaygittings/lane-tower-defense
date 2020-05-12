@@ -18,7 +18,8 @@ public class EnemySpawner : MonoBehaviour
         while(shouldSpawn)
         {
             yield return new WaitForSeconds(Random.Range(minSpawnTime, maxSpawnTime));
-            Instantiate(enemies[0], transform.position, Quaternion.identity);
+            var obj = Instantiate(enemies[0], transform.position, Quaternion.identity);
+            obj.transform.parent = transform;
         }
     }
 

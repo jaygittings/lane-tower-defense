@@ -39,4 +39,9 @@ public class MoneyDisplay : MonoBehaviour
         currentMoney -= amt;
         UpdateDisplay();
     }
+
+    public bool EnoughMoney(int amt)
+    {
+        return currentMoney >= amt;
+    }
 }

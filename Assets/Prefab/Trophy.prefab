@@ -175,6 +175,7 @@ GameObject:
   - component: {fileID: 2401325861218872407}
   - component: {fileID: 2401325861218872404}
   - component: {fileID: 4860364431301516130}
+  - component: {fileID: 5043796758939820380}
   m_Layer: 0
   m_Name: Trophy
   m_TagString: Untagged
@@ -234,3 +235,30 @@ MonoBehaviour:
   gunpoint: {fileID: 0}
   starCost: 100
   canAttack: 0
+  star: {fileID: 1322140649521307815, guid: 5820ed9c4f62fb24d9b2afca6803c6b7, type: 3}
+--- !u!61 &5043796758939820380
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2401325861218872406}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.007222891}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1.0144458}
+  m_EdgeRadius: 0
