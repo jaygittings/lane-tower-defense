@@ -13,19 +13,37 @@ public class EnemySpawner : MonoBehaviour
 
 
     // Start is called before the first frame update
-    IEnumerator Start()
+    void Start()
     {
-        while(shouldSpawn)
-        {
-            yield return new WaitForSeconds(Random.Range(minSpawnTime, maxSpawnTime));
-            var obj = Instantiate(enemies[0], transform.position, Quaternion.identity);
-            obj.transform.parent = transform;
-        }
+        Spawn();
     }
 
     // Update is called once per frame
     void Update()
     {
         
+    }
+
+    private void Spawn()
+    {
+        StartCoroutine(Spawn(enemies));
+    }
+    
+    
+    private IEnumerator Spawn(List<GameObject> enemies)
+    {
+        while (shouldSpawn)
+        {
+            var enemyIndex = Random.Range(0, enemies.Count);
+            yield return new WaitForSeconds(Random.Range(minSpawnTime, maxSpawnTime));
+            var obj = Instantiate(enemies[enemyIndex], transform.position, Quaternion.identity);
+            obj.transform.parent = transform;
+        }
+
+    }
+
+    public void DisableSpawning()
+    {
+        shouldSpawn = false;
     }
 }

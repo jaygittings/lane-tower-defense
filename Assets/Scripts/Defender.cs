@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class Defender : MonoBehaviour
 {
-    [SerializeField] GameObject shot;
-    [SerializeField] Animator animator;
-    [SerializeField] GameObject gunpoint;
-    [SerializeField] int starCost;
-    [SerializeField] bool canAttack;
-    [SerializeField] GameObject star;
+    [SerializeField] GameObject shot = null;
+    [SerializeField] Animator animator = null;
+    [SerializeField] GameObject gunpoint = null;
+    [SerializeField] int starCost = 100;
+    [SerializeField] bool canAttack = false;
+    [SerializeField] GameObject star = null;
 
 
     EnemySpawner myLaneSpawner;

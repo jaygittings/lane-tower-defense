@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MusicPlayer : MonoBehaviour
 {
-    [SerializeField] AudioClip loadingSound;
+    [SerializeField] AudioClip loadingSound = null;
     [SerializeField] float volume = .5f;
 
     // Start is called before the first frame update
