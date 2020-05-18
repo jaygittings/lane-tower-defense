@@ -7,6 +7,8 @@ using UnityEngine.SceneManagement;
 public class LevelController : MonoBehaviour
 {
     [SerializeField] GameObject winLabel = null;
+    [SerializeField] GameObject loseLabel = null;
+    [SerializeField] AudioClip[] clips = null;
 
     int enemiesInLevel = 0;
     bool timerIsDone = false;
@@ -18,6 +20,7 @@ public class LevelController : MonoBehaviour
         enemiesInLevel = 0;
         timerIsDone = false;
         winLabel.SetActive(false);
+        loseLabel.SetActive(false);
     }
 
     // Update is called once per frame
@@ -44,6 +47,13 @@ public class LevelController : MonoBehaviour
             StartCoroutine(NextLevel());
             //Debug.Log("Level won");
         }
+    }
+
+    internal void Lose()
+    {
+        loseLabel.SetActive(true);
+        AudioSource.PlayClipAtPoint(clips[1], Camera.main.transform.position);
+        Time.timeScale = 0;
     }
 
     private IEnumerator NextLevel()

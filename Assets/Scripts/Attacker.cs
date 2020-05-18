@@ -24,6 +24,10 @@ public class Attacker : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth;
+        maxHealth *= (int)PlayerPrefsController.GetDifficulty();
+        damage *= (int)PlayerPrefsController.GetDifficulty();
+        baseDamage *= (int)PlayerPrefsController.GetDifficulty();
+
     }
 
     // Update is called once per frame
@@ -85,6 +89,8 @@ public class Attacker : MonoBehaviour
 
     private void OnDestroy()
     {
-        FindObjectOfType<LevelController>().AttackerKilled();
+        var levelController = FindObjectOfType<LevelController>();
+        if (levelController != null)
+            levelController.AttackerKilled();
     }
 }

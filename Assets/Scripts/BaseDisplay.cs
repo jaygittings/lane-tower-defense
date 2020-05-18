@@ -43,6 +43,6 @@ public class BaseDisplay : MonoBehaviour
 
     public void EndGame()
     {
-        FindObjectOfType<LevelLoader>().LoadLoseScreen();
+        FindObjectOfType<LevelController>().Lose();
     }
 }

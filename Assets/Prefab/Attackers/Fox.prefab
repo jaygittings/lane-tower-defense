@@ -196,7 +196,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentSpeed: 0
-  maxHealth: 50
+  maxHealth: 20
   deathVFX: {fileID: 100004, guid: f95ff734540a0d749be6571b6cb5b37f, type: 3}
   animator: {fileID: 4131370160992443876}
   damage: 10

@@ -56,4 +56,23 @@ public class LevelLoader : MonoBehaviour
     {
         SceneManager.LoadScene("Game Over Screen");
     }
+
+    public void RestartLevel()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene(currentSceneIndex);
+    }
+
+    public void LoanMainMenu()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene("Start Screen");
+    }
+
+    public void LoadOptions()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene("Options Screen");
+    }
+
 }

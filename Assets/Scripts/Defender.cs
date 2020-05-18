@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -13,11 +14,24 @@ public class Defender : MonoBehaviour
 
 
     EnemySpawner myLaneSpawner;
+    GameObject projectileParent;
+
+    const string PROJECTILE_PARENT = "Projectiles";
 
     // Start is called before the first frame update
     void Start()
     {
-       SetLaneSpawner();
+        CreateProjectilesParent();
+        SetLaneSpawner();
+    }
+
+    private void CreateProjectilesParent()
+    {
+        projectileParent = GameObject.Find(PROJECTILE_PARENT);
+        if (!projectileParent)
+        {
+            projectileParent = new GameObject(PROJECTILE_PARENT);
+        }
     }
 
     // Update is called once per frame
@@ -39,6 +53,7 @@ public class Defender : MonoBehaviour
     public void Shoot()
     {
         var bullet = Instantiate(shot, gunpoint.transform.position, Quaternion.identity);
+        bullet.transform.parent = projectileParent.transform;
         return;
     }
 

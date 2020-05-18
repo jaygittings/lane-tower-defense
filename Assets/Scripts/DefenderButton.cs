@@ -1,6 +1,8 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class DefenderButton : MonoBehaviour
 {
@@ -11,7 +13,15 @@ public class DefenderButton : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        LabelButtonWithCost();
+    }
+
+    private void LabelButtonWithCost()
+    {
+
+        Text costText = GetComponentInChildren<Text>();
+        if(costText)
+            costText.text = defenderPrefab.GetCost().ToString();
     }
 
     // Update is called once per frame

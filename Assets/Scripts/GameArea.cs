@@ -1,15 +1,28 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class GameArea : MonoBehaviour
 {
     Defender defender;
+    GameObject defenderParent;
+
+    const string DEFENDER_PARENT_NAME = "Defenders";
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        CreateDefenderParent();
+    }
+
+    private void CreateDefenderParent()
+    {
+        defenderParent = GameObject.Find(DEFENDER_PARENT_NAME);
+        if(!defenderParent)
+        {
+            defenderParent = new GameObject(DEFENDER_PARENT_NAME);
+        }
     }
 
     // Update is called once per frame
@@ -48,6 +61,7 @@ public class GameArea : MonoBehaviour
         {
             money.RemoveMoney(defenderCost);
             var obj = Instantiate(defender, gridPos, Quaternion.identity);
+            obj.transform.parent = defenderParent.transform;
         }
     }
 }

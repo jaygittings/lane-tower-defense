@@ -24,7 +24,8 @@ public class BaseArea : MonoBehaviour
         if (enemy != null)
         {
             baseDisplay.RemoveLife(enemy.GetBaseDamage());
-        }    
+            Destroy(enemy);
+        }
     }
 }
 

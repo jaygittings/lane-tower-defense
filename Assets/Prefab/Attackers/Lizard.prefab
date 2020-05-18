@@ -114,10 +114,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentSpeed: 0
-  maxHealth: 100
+  maxHealth: 35
   deathVFX: {fileID: 100004, guid: f95ff734540a0d749be6571b6cb5b37f, type: 3}
   animator: {fileID: 1336034489235001013}
-  damage: 20
+  damage: 15
   attackRate: 0
   baseDamage: 10
   defender: {fileID: 0}
